@@ -1,4 +1,4 @@
-# mp-gym
+# viper_gym
 Gym Resource for Pump &amp; Run Gymnasium (Rewritten from Dynyx-Gym - Credit to [Green](https://github.com/GreenSlayer/dynyx-gym))
 | ------------------------------------------------------------ |
 
